@@ -15,7 +15,8 @@
   "dependencies": {
     "firebase-admin": "^9.8.0",
     "firebase-functions": "^3.14.1",
-    "openai": "^2.0.4"
+    "openai": "^2.0.4",
+    "twilio": "^3.75.0"
   },
   "devDependencies": {
     "firebase-functions-test": "^0.2.0"
